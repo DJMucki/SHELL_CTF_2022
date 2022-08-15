@@ -5,6 +5,6 @@ Writeups for SHELL CTF 2022: [https://shellctf2022.games](https://shellctf2022.g
 ## Categories
 
 - Reversing
-   - [How to defeat a dragon](<link_to_writeup>
+   - [How to defeat a dragon](https://github.com/DJMucki/Writeups-for-SHELL-CTF-2022/blob/main/HowToDefeatADragon/HowToDefeatADragon.md)
    
 Template take from [@RyanNgCT](https://github.com/RyanNgCT/CTF-Writeup-Template)
