@@ -1,6 +1,6 @@
 # SHELL CTF 2022
 
-Writeups for SHELL CTF 2022: [https://shellctf2022.games/](https://shellctf2022.games/)
+Writeups for SHELL CTF 2022: [https://shellctf2022.games](https://shellctf2022.games/)
 
 ## Categories
 
