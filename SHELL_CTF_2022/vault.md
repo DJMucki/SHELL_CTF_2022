@@ -18,10 +18,12 @@ We think it looks like this.
 
 ![alt text][flag_struct]
 
-So we create a struct in [Gihdra][gihdra_link] and reverse the programm a bit more. 
+So we create a struct in [Gihdra][gihdra_link] and reverse the programm a bit more.
+
+![alt text][gihdra_reversed]   
 
 [gihdra_link]: https://ghidra-sre.org/ "gihdra link"
-
+[gihdra_reversed]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_reversed.png "gihdra reversed"
 [gihdra_decomp]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_decomp.png "gihdra decomp image"
 [gihdra_decomp_explained]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_explained.png "gihdra decomp image explained"
 [flag_struct]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/flag_struct.png "flag struct" 
