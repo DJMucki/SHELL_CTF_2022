@@ -1,4 +1,4 @@
-# VAULT begginer reverse challenge
+# How To defeat a dragon begginer reverse challenge
 
 Reverse the given binary file with [Gihdra][gihdra_link]
 
