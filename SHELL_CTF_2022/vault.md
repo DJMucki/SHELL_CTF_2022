@@ -39,7 +39,7 @@ The **Magic operation** says to try the **From Hex Operation**.
 We can see the **Real Flag** is **SHELLCTF{15_R3v3r51ng_34sy?}**.
 
 [gihdra_link]: https://ghidra-sre.org/ "gihdra link"
-[cyber_chef_link] : https://gchq.github.io/CyberChef "cyber_chef_link"
+[cyber_chef_link]: https://gchq.github.io/CyberChef "cyber_chef_link"
 [gihdra_reversed]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_reversed_explained.png "gihdra reversed"
 [gihdra_decomp]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_decomp.png "gihdra decomp image"
 [gihdra_decomp_explained]: https://github.com/DJMucki/Writeups/blob/main/SHELL_CTF_2022/.images/gihdra_explained.png "gihdra decomp image explained"
