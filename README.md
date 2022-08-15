@@ -1,6 +1,6 @@
-# <CTF_NAME> CTF
+# SHELL CTF 2022
 
-Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
+Writeups for SHELL CTF 2022: [website_name](https://shellctf2022.games/)
 
 ## Categories
 
